@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
 </p>
 
-<p><img align="left" width="60" src="https://github-readme-stats.vercel.app/api/top-langs?username=yadons&show_icons=true&locale=en&layout=compact" alt="yadons" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yadons&show_icons=true&locale=en&layout=compact" alt="yadons" /></p>
 
 <h3 align="right">Connect with me:</h3>
 <p align="right">
