@@ -25,24 +25,16 @@
 
 <p><img align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=yadons&show_icons=true&locale=en&layout=compact" alt="yadons" /></p>
 
-<h3 align="right">Connect with me:</h3>
-<p align="right">
-<a href="https://twitter.com/https://twitter.com/yagoss5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/yagoss5" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/ yago-silva-598a6b1b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ yago-silva-598a6b1b8" height="50" width="60"  /></a>
-</p>
-## Connect with Me
+<h3> Connect with Me </h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/seu-linkedin" target="_blank" rel="noopener noreferrer">
+  <a href="https://linkedin.com/in/www.linkedin.com/in/ yago-silva-598a6b1b8" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://twitter.com/seu-twitter" target="_blank" rel="noopener noreferrer">
+  <a href="https://twitter.com/https://twitter.com/yagoss5" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="https://github.com/seu-github" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="mailto:seu-email@example.com" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:yagosilvager@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
