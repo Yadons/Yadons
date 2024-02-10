@@ -31,7 +31,7 @@
   <a href="https://www.linkedin.com/in/yago-silva-598a6b1b8" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://twitter.com/https://twitter.com/yagoss5" target="_blank" rel="noopener noreferrer">
+  <a href="https://twitter.com/yagoss5" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
   <a href="mailto:yagosilvager@gmail.com" target="_blank" rel="noopener noreferrer">
