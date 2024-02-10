@@ -25,8 +25,9 @@
 
 <p><img align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=yadons&show_icons=true&locale=en&layout=compact" alt="yadons" /></p>
 
-<p align="right">
+
 <h3> Connect with Me </h3>
+<p align="center">
   <a href="https://linkedin.com/in/www.linkedin.com/in/ yago-silva-598a6b1b8" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -37,4 +38,16 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
-
+ Achievements
+<p align="center">
+  <img src="https://img.shields.io/badge/Years%20of%20Experience-2-brightgreen" alt="Years of Experience">
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-blue" alt="Open Source Contributor">
+  <img src="https://img.shields.io/badge/Code%20Reviewer-green" alt="Code Reviewer">
+  <img src="https://img.shields.io/badge/Bug%20Hunter-red" alt="Bug Hunter">
+  <img src="https://img.shields.io/badge/Tech%20Blogger-orange" alt="Tech Blogger">
+  <img src="https://img.shields.io/badge/Hackathon%20Enthusiast-yellow" alt="Hackathon Enthusiast">
+  <img src="https://img.shields.io/badge/Conference%20Speaker-purple" alt="Conference Speaker">
+  <img src="https://img.shields.io/badge/Documentation%20Guru-lightgrey" alt="Documentation Guru">
+  <img src="https://img.shields.io/badge/CI/CD%20Wizard-brightblue" alt="Continuous Integration Wizard">
+  <img src="https://img.shields.io/badge/Tech%20Enthusiast-lightblue" alt="Tech Enthusiast">
+</p>
