@@ -3,7 +3,7 @@
 
 <h3> Desenvolvedor entusiasta buscando colaborar em diversos projetos e explorar diferentes tecnologias. Com dedicação e vontade de aprender, estou pronto para enfrentar novos horizontes no mundo do desenvolvimento de software.</h3>
 
-<h1>👨‍💻 Expertise </h1>
+<h1>👨‍💻 Habilidades </h1>
 
 <h3>🚀 Recentemente entrei no emocionante mundo do desenvolvimento de software, apaixonado por resolver problemas e criar soluções inovadoras. Estou empenhado em aprimorar minhas habilidades constantemente, buscando aprender e aplicar as tecnologias mais recentes.</h3>
 
@@ -11,7 +11,7 @@
 
 <h3>⚽ Além do universo digital, tenho uma paixão pelo futebol e pelos jogos eletrônicos. Nos momentos de descontração, gosto de mergulhar em partidas emocionantes e torcer pelo meu time favorito. Essa combinação de interesse no virtual e no real cria um equilíbrio perfeito em minha vida.</h3>
 
-<h1>Technologies</h1>
+<h1>Tecnologias</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -26,7 +26,7 @@
 <p><img align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=yadons&show_icons=true&locale=en&layout=compact" alt="yadons" /></p>
 
 
-<h3> Connect with Me </h3>
+<h3>Fale Comigo </h3>
 <p align="center" posicion = "bottom">
   <a href="https://www.linkedin.com/in/yago-silva-598a6b1b8" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
