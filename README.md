@@ -7,6 +7,17 @@
 <a href="https://twitter.com/https://twitter.com/yagoss5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/yagoss5" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/ yago-silva-598a6b1b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ yago-silva-598a6b1b8" height="30" width="40" /></a>
 </p>
+## 👨‍💻 Expertise
+
+<p align="center">
+  <img src="https://example.com/path/to/your/image.png" alt="Developer with Laptop">
+</p>
+
+🚀 Recentemente entrei no emocionante mundo do desenvolvimento de software, apaixonado por resolver problemas e criar soluções inovadoras. Estou empenhado em aprimorar minhas habilidades constantemente, buscando aprender e aplicar as tecnologias mais recentes.
+
+👨‍💻 Trabalhar com códigos é mais do que uma profissão para mim; é uma jornada empolgante de descoberta e resolução de desafios. A cada linha de código escrita, sinto-me mais próximo de alcançar meus objetivos como desenvolvedor.
+
+⚽ Além do universo digital, tenho uma paixão pelo futebol e pelos jogos eletrônicos. Nos momentos de descontração, gosto de mergulhar em partidas emocionantes e torcer pelo meu time favorito. Essa combinação de interesse no virtual e no real cria um equilíbrio perfeito em minha vida.
 
 ## Technologies
 
