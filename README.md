@@ -28,5 +28,5 @@
 <h3 align="right">Connect with me:</h3>
 <p align="right">
 <a href="https://twitter.com/https://twitter.com/yagoss5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/yagoss5" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/ yago-silva-598a6b1b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ yago-silva-598a6b1b8" height="50" width="60" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/ yago-silva-598a6b1b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ yago-silva-598a6b1b8" height="50" width="60" margin-right= "40" /></a>
 </p>
