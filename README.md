@@ -1,5 +1,5 @@
 <h1 align="letf">Hi 👋, I'm Yago Silva</h1>
-<h3 align="left">frontend developer</h3>
+<h3 align="left">Software developer</h3>
 
 <h3> Desenvolvedor entusiasta buscando colaborar em diversos projetos e explorar diferentes tecnologias. Com dedicação e vontade de aprender, estou pronto para enfrentar novos horizontes no mundo do desenvolvimento de software.</h3>
 
@@ -25,7 +25,7 @@
 
 <p><img align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=yadons&show_icons=true&locale=en&layout=compact" alt="yadons" /></p>
 
-<p align="right" padding="30">
+<p align="right" padding="60">
 <h3> Connect with Me </h3>
   <a href="https://linkedin.com/in/www.linkedin.com/in/ yago-silva-598a6b1b8" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
