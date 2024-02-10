@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Yago Silva</h1>
-<h3 align="center">frontend developer</h3>
+<h1 align="letf">Hi 👋, I'm Yago Silva</h1>
+<h3 align="left">frontend developer</h3>
 
+<h3> Desenvolvedor entusiasta buscando colaborar em diversos projetos e explorar diferentes tecnologias. Com dedicação e vontade de aprender, estou pronto para enfrentar novos horizontes no mundo do desenvolvimento de software.</h3>
 
 <h1>## 👨‍💻 Expertise </h1>
 
@@ -27,5 +28,5 @@
 <h3 align="right">Connect with me:</h3>
 <p align="right">
 <a href="https://twitter.com/https://twitter.com/yagoss5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/yagoss5" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/ yago-silva-598a6b1b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ yago-silva-598a6b1b8" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/ yago-silva-598a6b1b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ yago-silva-598a6b1b8" height="50" width="60" /></a>
 </p>
