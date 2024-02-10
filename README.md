@@ -27,7 +27,7 @@
 
 
 <h3> Connect with Me </h3>
-<p align="center">
+<p align="center" posicion = "bottom">
   <a href="https://www.linkedin.com/in/yago-silva-598a6b1b8" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
