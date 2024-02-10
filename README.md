@@ -28,7 +28,7 @@
 
 <h3> Connect with Me </h3>
 <p align="center">
-  <a href="www.linkedin.com/in/yago-silva-598a6b1b8" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/yago-silva-598a6b1b8" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://twitter.com/https://twitter.com/yagoss5" target="_blank" rel="noopener noreferrer">
