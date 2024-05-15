@@ -7,8 +7,6 @@
 
 <h3>🚀 Recentemente entrei no emocionante mundo do desenvolvimento de software, apaixonado por resolver problemas e criar soluções inovadoras. Estou empenhado em aprimorar minhas habilidades constantemente, buscando aprender e aplicar as tecnologias mais recentes.</h3>
 
-<h3>👨‍💻 Trabalhar com códigos é mais do que uma profissão para mim; é uma jornada empolgante de descoberta e resolução de desafios. A cada linha de código escrita, sinto-me mais próximo de alcançar meus objetivos como desenvolvedor.</h3>
-
 <h3>⚽ Além do universo digital, tenho uma paixão pelo futebol e pelos jogos eletrônicos. Nos momentos de descontração, gosto de mergulhar em partidas emocionantes e torcer pelo meu time favorito. Essa combinação de interesse no virtual e no real cria um equilíbrio perfeito em minha vida.</h3>
 
 <h1>Tecnologias</h1>
