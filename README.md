@@ -1,13 +1,8 @@
 <h1 align="letf">Hi 👋, I'm Yago Silva</h1>
 <h1 align="left">Boas vindas ao meu perfil</h1>
-
-<h3> Desenvolvedor entusiasta buscando colaborar em diversos projetos e explorar diferentes tecnologias. Com dedicação e vontade de aprender, estou pronto para enfrentar novos horizontes no mundo do desenvolvimento de software.</h3>
-
 <h1>👨‍💻 expertises </h1>
 
 <h3>🚀 Recentemente entrei no emocionante mundo do desenvolvimento de software, apaixonado por resolver problemas e criar soluções inovadoras. Estou empenhado em aprimorar minhas habilidades constantemente, buscando aprender e aplicar as tecnologias mais recentes.</h3>
-
-<h3>⚽ Além do universo digital, tenho uma paixão pelo futebol e pelos jogos eletrônicos. Nos momentos de descontração, gosto de mergulhar em partidas emocionantes e torcer pelo meu time favorito. Essa combinação de interesse no virtual e no real cria um equilíbrio perfeito em minha vida.</h3>
 
 <h1>Tecnologias</h1>
 
@@ -22,7 +17,6 @@
 </p>
 
 <p><img align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=yadons&show_icons=true&locale=en&layout=compact" alt="yadons" /></p>
-
 
 <h3>Entre em contato Comigo!</h3>
 <p align="center" posicion = "bottom">
